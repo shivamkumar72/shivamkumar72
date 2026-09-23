@@ -173,41 +173,28 @@ I enjoy solving programming problems and improving my algorithmic thinking.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=shivamkumar72&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Shivam Kumar GitHub Stats"
-  />
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamkumar72&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
-  />
-</p>
+- 💻 Building full-stack web applications
+- 🚀 Working with React.js, Next.js, Node.js and Express.js
+- 🗄️ Working with MySQL, MongoDB and SQLite
+- 🧠 Practicing Data Structures & Algorithms
+- 🔧 Using Git & GitHub for version control
+- 📚 Continuously learning new technologies
 
 ---
 
-# 📈 My Development Journey
+# 🧑‍💻 What I Build
 
 ```text
-💻 Coding
+Frontend
    ↓
-🧠 Problem Solving
+React.js / Next.js
    ↓
-🌐 Full-Stack Development
+REST APIs
    ↓
-⚙️ Backend & APIs
+Node.js / Express.js
    ↓
-🗄️ Databases
+MySQL / MongoDB / SQLite
    ↓
-🚀 Building Real-World Projects
-   ↓
-📚 Continuous Learning
+Git & GitHub
